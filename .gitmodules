@@ -1,0 +1,15 @@
+[submodule ".config/dwm"]
+	path = .config/dwm
+	url = https://github.com/lnhutnam/dwm.git
+[submodule ".config/st"]
+	path = .config/st
+	url = https://github.com/lnhutnam/st.git
+[submodule ".config/sltools"]
+	path = .config/sltools
+	url = https://github.com/lnhutnam/sltools.git
+[submodule ".config/slstatus"]
+	path = .config/slstatus
+	url = https://github.com/lnhutnam/slstatus.git
+[submodule ".config/dmenu"]
+	path = .config/dmenu
+	url = https://github.com/lnhutnam/dmenu.git
